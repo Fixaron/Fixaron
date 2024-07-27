@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fixaron and my real name is Philip
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning component-based software engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any Python or C++ based projects
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
 
